@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\RiskCalculations\\ACREWebApp\\ACRE_WebApp\\ACRE_WebApp\\ACRE_WebApp.csproj": {}
+    "C:\\repos\\ACRE\\ACRE_WebApp\\ACRE_WebApp.csproj": {}
   },
   "projects": {
-    "C:\\repos\\RiskCalculations\\ACREWebApp\\ACRE_WebApp\\ACRE_WebApp\\ACRE_WebApp.csproj": {
+    "C:\\repos\\ACRE\\ACRE_WebApp\\ACRE_WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\RiskCalculations\\ACREWebApp\\ACRE_WebApp\\ACRE_WebApp\\ACRE_WebApp.csproj",
+        "projectUniqueName": "C:\\repos\\ACRE\\ACRE_WebApp\\ACRE_WebApp.csproj",
         "projectName": "ACRE_WebApp",
-        "projectPath": "C:\\repos\\RiskCalculations\\ACREWebApp\\ACRE_WebApp\\ACRE_WebApp\\ACRE_WebApp.csproj",
+        "projectPath": "C:\\repos\\ACRE\\ACRE_WebApp\\ACRE_WebApp.csproj",
         "packagesPath": "C:\\Users\\thsok\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\RiskCalculations\\ACREWebApp\\ACRE_WebApp\\ACRE_WebApp\\obj\\",
+        "outputPath": "C:\\repos\\ACRE\\ACRE_WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
