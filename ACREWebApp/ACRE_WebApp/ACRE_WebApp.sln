@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACRE_WebApp", "ACRE_WebApp\ACRE_WebApp.csproj", "{D3FA34A9-58B4-4ADF-8D6E-55579213744B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FA34A9-58B4-4ADF-8D6E-55579213744B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FA34A9-58B4-4ADF-8D6E-55579213744B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FA34A9-58B4-4ADF-8D6E-55579213744B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FA34A9-58B4-4ADF-8D6E-55579213744B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9EB89A-982C-4794-AE1A-B4FBD6A5B885}
+	EndGlobalSection
+EndGlobal
